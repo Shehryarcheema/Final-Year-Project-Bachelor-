@@ -1,2 +1,2 @@
-# Final-Year-Project-Bachelor-
-This is my Final Year Project, developed as part of my Bachelor’s degree in Computer Science.
+Hiking-Trail-Guide
+<br> This project is my **Final Year Project**, developed as part of my **Bachelor’s degree in Computer Science**. <br> The **Hiking Trail Guide** is a web application designed to help users explore and discover hiking trails based on their preferences. It provides detailed information such as trail locations, difficulty levels, and user reviews. <br> The project was developed using **React** for the front-end and **Node.js** for the back-end, focusing on creating an interactive, user-friendly, and efficient system for outdoor enthusiasts. <br> **Author:** Shehryar
